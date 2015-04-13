@@ -9,3 +9,4 @@ R > library(XML)
 R > url <- "http://www.statistics.life.ku.dk/primer/mydata.xml" # insert the data location
 R > indata <- xmlToDataFrame(url)
 R > head(indata) #display the data
+R >
