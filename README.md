@@ -1,6 +1,8 @@
 # LinksAndReferences
 Collection of useful materials
 
+These guys are providing an overview of the relevancy of some courses in Data Science http://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera
+
 Video for the R course
 http://blog.revolutionanalytics.com/2012/12/coursera-videos.html
 
