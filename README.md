@@ -12,3 +12,8 @@ R > url <- "http://www.statistics.life.ku.dk/primer/mydata.xml" # insert the dat
 R > indata <- xmlToDataFrame(url)
 R > head(indata) #display the data
 R >
+
+My functions: 
+hhead(x, n=6)
+x – A matrix, data frame, or vector.
+n – The first n rows (or values if x is a vector) will be returned. If left empty all is returned
