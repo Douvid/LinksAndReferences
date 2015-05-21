@@ -19,3 +19,5 @@ x – A matrix, data frame, or vector.
 n – The first n rows (or values if x is a vector) will be returned. If left empty all is returned
 
 write.csv(MyData, file = "MyData.csv") ## this kinds of exports your matrix into a csv in the directory
+
+* http://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html 
